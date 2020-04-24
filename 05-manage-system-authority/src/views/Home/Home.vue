@@ -41,7 +41,7 @@
         </el-card>
         <el-card shadow="hover">
           <!--图表三 这里的数据是饼状图 因为饼状图是不用x轴的 所以这里isAxisChart为false-->
-          <echart :chartData="echartData.video" style="height: 260px" :isAxisChart="false"></echart>
+          <echart :chartData="echartData.mall" style="height: 260px" :isAxisChart="false"></echart>
         </el-card>
       </div>
     </el-col>
