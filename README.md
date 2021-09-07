@@ -107,7 +107,7 @@ mall-manage-system # 电商后台管理系统
 4、封装一个Form表单组件和Table表格组件 
 5、企业开发之权限管理思路讲解
 ```
-#### 4、博客地址
+#### 5、博客地址
 
 1、[Vue + Element-ui实现后台管理系统(1) --- 总述](https://www.cnblogs.com/qdhxhz/p/12577851.html)
 
