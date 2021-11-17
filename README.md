@@ -121,3 +121,5 @@ mall-manage-system # 电商后台管理系统
 
 6、[Vue + Element-ui实现后台管理系统(6)---权限管理思路讲解](https://www.cnblogs.com/qdhxhz/p/12655506.html)
 
+![acda64387e0896604b5932dc433c8b77](https://user-images.githubusercontent.com/37285812/142141918-b6e7ab03-f6c0-4845-bfe6-28c870bb65e1.gif)
+
